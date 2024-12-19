@@ -2,15 +2,22 @@ html {
     font-family: monospace, 'Times New Roman', Times, serif;
 }
 
+body {
+    margin: 0;
+    border: none;
+    padding: 0;
+}
 
 
-.title-contenedor {
+*.title-contenedor {
     text-align: center;
     font-weight: bold;
     font-size: 70px;
     text-transform: uppercase;
     background-color: rgb(112, 182, 182);
-    margin: 0;    
+    margin: 0;
+    border: none;
+    padding: 0;
 }   
 
 .links {
